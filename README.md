@@ -10,6 +10,7 @@
 📃 &nbsp;Подробнее обо мне смотрите в моем [резюме](https://sochi.hh.ru/resume/fc31b6fcff090cec980039ed1f515941334967) 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+&nbsp;
 
 ### 🛠 &nbsp;Tech Stack
 
